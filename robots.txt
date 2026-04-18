@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://broncoheadliner.com/sitemap.xml
