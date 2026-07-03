@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://broncoheadliner.com/</loc></url>
-<url><loc>https://broncoheadliner.com/best-hardtop-headliners.html</loc></url>
-<url><loc>https://broncoheadliner.com/best-sound-deadening-kits.html</loc></url>
-<url><loc>https://broncoheadliner.com/best-roof-insulation-kits.html</loc></url>
-<url><loc>https://broncoheadliner.com/buyers-guide.html</loc></url>
-  <url><loc>https://broncoheadliner.com/contact.html</loc><lastmod>2026-04-20</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://broncoheadliner.com/best-broncoheadliner-without-overpaying.html</loc><lastmod>2026-07-02</lastmod></url>
+  <url>
+    <loc>https://broncoheadliner.com/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
